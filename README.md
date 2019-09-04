@@ -72,10 +72,12 @@
 | 《Linux 内核设计的艺术（第2版）》 | https://book.douban.com/subject/24708145/ | 计算机基础 | Tomax |
 | 《kali渗透测试实战》 | https://book.douban.com/subject/25967355/ | Web渗透 | h2w2r6ui |
 | 《白帽子讲Web安全》 | https://book.douban.com/subject/10546925/ | Web安全入门 | h2w2r6ui |
-|《黑客攻防技术宝典:系统实战篇》|https://book.douban.com/subject/4225167/|系统安全|Edgar|
-|《寒江独钓:Windows内核安全编程》|https://book.douban.com/subject/3769383/|系统安全|Edgar|
-|《加密与解密(第四版)》|https://book.douban.com/subject/30288807/|系统安全|Edgar|
-|《C++反汇编与逆向分析技术揭秘》|https://book.douban.com/subject/6849800/|系统安全|Edgar|
+| 《黑客攻防技术宝典:系统实战篇》|https://book.douban.com/subject/4225167/|系统安全|Edgar|
+| 《寒江独钓:Windows内核安全编程》|https://book.douban.com/subject/3769383/|系统安全|Edgar|
+| 《加密与解密(第四版)》|https://book.douban.com/subject/30288807/|系统安全|Edgar|
+| 《C++反汇编与逆向分析技术揭秘》|https://book.douban.com/subject/6849800/|系统安全|Edgar|
+| 《机器学习实战：基于Scikit-Learn和TensorFlow》|https://book.douban.com/subject/30317874/|机器学习|wood|
+| 《汇编语言(第3版)》 | https://book.douban.com/subject/25726019/| 计算机底层 | wood |
 
 
 ## 特别鸣谢捐赠者们
